@@ -2,7 +2,7 @@
     CSE 112 - Computer Organisation group project.
         group members :
             Aditya Sharma
-            Ayan kumar
+            Ayan kumar Singh
             Aayan hasan
             Kanishk kumar meena
 '''
